@@ -1,7 +1,7 @@
 # Modèle MVC PHP - Dashboard User
 
 
-[![Build Status](https://img.shields.io/badge/MVC%php-Mode%20Master-blue)](https://travis-ci.org/badges/badgerbadgerbadger)  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Hess-Gregory/un_ami_pour_la_vie/blob/master/LICENSE) [![DB.](https://img.shields.io/badge/DataBase-MySQL-blue?logo=MySQL&style=plastic&labelColor=white)](https://jwt.io/)
+[![Build Status](https://img.shields.io/badge/MVC%20php-Mode%20Master-blue)](https://travis-ci.org/badges/badgerbadgerbadger)  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Hess-Gregory/un_ami_pour_la_vie/blob/master/LICENSE) [![DB.](https://img.shields.io/badge/DataBase-MySQL-blue?logo=MySQL&style=plastic&labelColor=white)](https://jwt.io/)
 
 
 ## Table des matières
