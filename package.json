@@ -1,0 +1,19 @@
+{
+  "name": "dashbord_mvc_php",
+  "version": "2.0.0",
+  "description": "dashboard php use system mvc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hess-Gregory/un_ami_pour_la_vie_old.git"
+  },
+  "author": "HESS Gregory",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hess-Gregory/un_ami_pour_la_vie_old/issues"
+  },
+  "homepage": "https://github.com/Hess-Gregory/un_ami_pour_la_vie_old#readme"
+}
